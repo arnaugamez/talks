@@ -1,0 +1,60 @@
+======
+IOLI
+======
+
+cd talks/hitb2019/demos/ioli
+r2 crackme0x02
+
+aaa
+pdf @ main
+s 0x0804842b
+aeim
+(aer)
+aeip
+(aer)
+aesu 0x0804844e
+pf d @ ebp-0xc
+
+======
+EILAM
+======
+
+cd talks/hitb2019/demos/eilam
+r2 Defender.exe
+
+aaa
+afl
+s fcn.004033d1
+pdf
+# show push, pop, jmp at the end and next instructions as encrypted
+pd 20 @ 0x004034d5
+e io.cache = 1
+aeim
+aeip
+aer
+aesu 0x004034db
+pd 20
+
+=====
+r2frida
+=====
+
+cd talks/hitb2019/demos/r2frida
+# term1
+./counter
+# term2
+sudo r2 frida://counter
+
+\?
+\ie
+s 0x5605a414416a
+pd 20
+V
+ p
+ c
+# change no 1 (sleep) at "0x5605a414418f   1  bf01000000     mov edi, 1"
+# change no 1 (inc) at "0x5605a4144199      8345fc01       add dword [rbp - 4], 1"
+
+
+
+
