@@ -1,0 +1,33 @@
+IOLI
+======
+
+r2 crackme0x02
+
+aaa
+pdf @ main
+s 0x0804842b
+aeim
+(aer)
+aeip
+(aer)
+aesu 0x0804844e
+pf d @ ebp-0xc # or afvd
+
+---
+ENCRYPTED CODE
+======
+
+r2 Defender.exe
+
+aaa
+afl
+s fcn.004033d1
+pdf
+# show push, pop, jmp at the end and next instructions as encrypted
+pd 20 @ 0x004034d5
+e io.cache = 1
+aeim
+aeip
+aer
+aesu 0x004034db
+pd 20	
