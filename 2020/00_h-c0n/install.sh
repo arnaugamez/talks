@@ -1,6 +1,6 @@
 # Update repositories and install required dependencies
 sudo apt update
-sudo apt -y install git build-essential
+sudo apt -y install git build-essential libc6-i386
 
 # Clone and install radare2
 git clone --depth=1 https://github.com/radareorg/radare2
