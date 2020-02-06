@@ -2,4 +2,4 @@
 
 Slides and resources for the talk "A journey through ESIL" I gave during r2con2019.
 
-Video recording will be available soon.
+Find video recording here: https://www.youtube.com/watch?v=MaFafykTASw
