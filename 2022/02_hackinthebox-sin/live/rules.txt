@@ -1,0 +1,6 @@
+ADD     3*(op1 & op2) - (op1 | op2) + 2*(op1 ^ op2)
+SUB     -3*(op1 & op2) - 2*(op1 ^ op2) + 2*op1 + (op1 | op2)
+MUL     -op1 + op2 + (op1^op2) + (op1*op2) + 2*(op1 | (~op2)) + 2
+XOR     39*(151*(op1 - op2 - 2*(op1 | ~op2) - 2) + 111) + 23
+AND     -op1 + op2 - 2*(op1 ^ op2) + 2*op1 + (op1 | op2) - 2*(op1 & op2)
+OR      -op1 - op2 + 3*(op1 & op2) + 2*(op1 ^ op2)
