@@ -48,6 +48,6 @@ Slides, recordings and materials of my public presentations, talks and workshops
 [**Auditing WiFi networks**<br>*04/2017* | Matefest-Infofest UB](2017/00_matefest-infofest-ub/)
 
 ## License
-All slides, materials and code authored are under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) unless stated otherwise.
+All the slides and materials authored are under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) unless stated otherwise.
 
 You can find a copy of the license at [LICENSE.md](LICENSE.md) for your convenience.
