@@ -1,6 +1,8 @@
 Slides, recordings and materials of my public presentations, talks and workshops.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/arnaugamez?style=social)](https://twitter.com/intent/follow?screen_name=arnaugamez)
+&nbsp;
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 ## 2022
