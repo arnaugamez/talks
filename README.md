@@ -41,6 +41,6 @@ Slides, recordings and materials of my public presentations, talks and workshops
 [**IoT, S stands for security**<br>*02/2018* | HackDay UDG](2018/00_hackday-udg/)
 
 ## 2017
-[**Introduction to RE and stego using r2**<br>*12/2018* | HackDay UDG](2017/01_hackday-udg/)
+[**Introduction to RE and stego using r2**<br>*12/2017* | HackDay UDG](2017/01_hackday-udg/)
 
 [**Auditing WiFi networks**<br>*04/2017* | Matefest-Infofest UB](2017/00_matefest-infofest-ub/)
