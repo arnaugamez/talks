@@ -1,6 +1,44 @@
+Slides, recordings and materials of my public presentations, talks and workshops.
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/arnaugamez?style=social)](https://twitter.com/intent/follow?screen_name=arnaugamez)
 
-# talks
+---
+## 2022
+[**A practical approach to advanced code obfuscation with MBA expressions**<br>*08/2022* | HITB SecConf Singapore](2022/02_hackinthebox-sin/)
 
-In this repository you can find slides and other materials of my talks, organized by year and event.
+[**Hands-on binary (de)obfuscation**<br>*06/2022* | RingZer0](2022/01_r0-workshop/)
 
+[**Code obfuscation through Mixed Boolean-Arithmetic expressions**<br>*02/2022* | h-c0n](2022/00_h-c0n/)
+
+## 2021
+[**Code obfuscation through Mixed Boolean-Arithmetic expressions**<br>*11/2021* | Intent Summit](2021/00_intent/)
+
+## 2020
+[**A review of modern code deobfuscation techniques**<br>*07/2022* | HITB Lockdown 002](2020/02_hackinthebox-sin/)
+
+[**Code emulation for reverse engineers: A deep dive into radare2's ESIL**<br>*05/2020* | RuhrSec](2020/01_ruhrsec/)
+
+[**Overcoming fear: reversing with radare2**<br>*02/2020* | h-c0n](2020/00_h-c0n/)
+
+## 2019
+[**A journey through ESIL**<br>*09/2019* | r2con](2019/02_r2con/)
+
+[**Overcoming fear: reversing with radare2**<br>*05/2019* | HITB SecConf Amsterdam](2019/01_hackinthebox-ams/)
+
+[**Stack machines unchained: code emulation with ESIL**<br>*04/2019* | Overdrive Conference](2019/00_overdriveconference/)
+
+## 2018
+[**Introducing radare2 for humans**<br>*09/2018* | r2con](2018/04_r2con/)
+
+[**Playing with binary formats**<br>*04/2018* | Overdrive Conference](2018/03_overdriveconference/)
+
+[**Brief introduction to reverse engineering usign radare2**<br>*04/2018* | NcNLabs](2018/02_noconname-lab/)
+
+[**Hacking tokens: a massive POC**<br>*03/2018* | RootedCON](2018/01_rootedcon/)
+
+[**IoT, S stands for security**<br>*02/2018* | HackDay UDG](2018/00_hackday-udg/)
+
+## 2017
+[**Introduction to RE and stego using r2**<br>*12/2018* | HackDay UDG](2017/01_hackday-udg/)
+
+[**Auditing WiFi networks**<br>*04/2017* | Matefest-Infofest UB](2017/00_matefest-infofest-ub/)
