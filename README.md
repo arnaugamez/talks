@@ -1,10 +1,31 @@
-Slides, recordings and materials of my public presentations, talks and workshops.
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/arnaugamez?style=social)](https://twitter.com/intent/follow?screen_name=arnaugamez)
 &nbsp;
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
+## Upcoming trainings
+
+<table style="margin-bottom: 1em">
+        <tbody>
+            <tr>
+            <td><strong>Training:</strong></td>
+            <td><a href="https://furalabs.com/trainings/" target="_blank" class="invert">An analytical approach to modern binary deobfuscation</a></td>
+            </tr>
+            <tr>
+                <td><strong>Location:</strong></td>
+                <td>Remote</td>
+            </tr>
+            <tr>
+                <td><strong>Dates:</strong></td>
+                <td>February 18-22, 2023</td>
+            </tr>
+            <tr>
+            <td><strong>Register:</strong></td>
+            <td><a href="https://ringzer0.training/trainings/an-analytical-approach-to-modern-binary-deobfuscation.html" target="_blank" class="invert">RingZer0</a></td>
+            </tr>
+        </tbody>
+    </table>
+
 ## Presentations
 
 ### 2022
