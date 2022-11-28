@@ -1,5 +1,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/arnaugamez?style=social)](https://twitter.com/intent/follow?screen_name=arnaugamez)
 &nbsp;
+![Mastodon Follow](https://img.shields.io/mastodon/follow/109298831472487864?domain=https%3A%2F%2Finfosec.exchange&style=social)
+&nbsp;
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
