@@ -6,27 +6,26 @@
 
 ---
 ## Upcoming trainings
+### Public offerings
+Looking for public offerings? [Get notified](https://subscribe.furalabs.com/)
 
+### Private training
 <table style="margin-bottom: 1em">
-        <tbody>
-            <tr>
-            <td><strong>Training:</strong></td>
-            <td><a href="https://furalabs.com/trainings/" target="_blank" class="invert">An analytical approach to modern binary deobfuscation</a></td>
-            </tr>
-            <tr>
-                <td><strong>Location:</strong></td>
-                <td>Remote</td>
-            </tr>
-            <tr>
-                <td><strong>Dates:</strong></td>
-                <td>February 18-22, 2023</td>
-            </tr>
-            <tr>
-            <td><strong>Register:</strong></td>
-            <td><a href="https://ringzer0.training/trainings/an-analytical-approach-to-modern-binary-deobfuscation.html" target="_blank" class="invert">RingZer0</a></td>
-            </tr>
-        </tbody>
-    </table>
+    <tbody>
+        <tr>
+        <td><strong>Training:</strong></td>
+        <td><a href="https://furalabs.com/trainings/" target="_blank" class="invert">An analytical approach to modern binary deobfuscation</a></td>
+        </tr>
+        <tr>
+            <td><strong>Location:</strong></td>
+            <td>In-person / Remote</td>
+        </tr>
+        <tr>
+            <td><strong>Length:</strong></td>
+            <td>4 days (flexible)</td>
+        </tr>
+    </tbody>
+</table>
 
 ## Presentations
 
