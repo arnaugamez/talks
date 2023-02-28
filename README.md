@@ -28,6 +28,9 @@
 
 ## Presentations
 
+### 2023
+[**Hands-on binary (de)obfuscation (updated)**<br>*02/2023* | h-c0n](2023/00_h-c0n/)
+
 ### 2022
 [**A practical approach to advanced code obfuscation with MBA expressions**<br>*08/2022* | HITB SecConf Singapore](2022/02_hackinthebox-sin/)
 
