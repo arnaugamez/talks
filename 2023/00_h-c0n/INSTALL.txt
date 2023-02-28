@@ -1,0 +1,10 @@
+Build the docker image from Dockerfile
+---
+docker build -t hc0n-2023-deobfuscation .
+
+
+Run the docker image exposing jupyter-lab instance on localhost:8888
+---
+docker run -p 8888:8888 hc0n-2023-deobfuscation
+
+* Depending on your docker installation, you might need to "sudo" the previous commands.
