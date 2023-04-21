@@ -7,6 +7,47 @@
 ---
 ## Upcoming trainings
 ### Public offerings
+<table style="margin-bottom: 1em">
+<tbody>
+    <tr>
+    <td><strong>Training:</strong></td>
+    <td><a href="https://furalabs.com/trainings/" target="_blank">An analytical approach to modern binary deobfuscation</a></td>
+    </tr>
+    <tr>
+        <td><strong>Location:</strong></td>
+        <td>In-person @ Las Vegas, USA</td>
+    </tr>
+    <tr>
+        <td><strong>Dates:</strong></td>
+        <td>August 05-08, 2023</td>
+    </tr>
+    <tr>
+    <td><strong>Register:</strong></td>
+    <td><a href="https://ringzer0.training/trainings/an-analytical-approach-to-modern-binary-deobfuscation.html" target="_blank">RingZer0</a></td>
+    </tr>
+</tbody>
+</table>
+<table>
+<tbody>
+    <tr>
+    <td><strong>Training:</strong></td>
+    <td><a href="https://furalabs.com/trainings/" target="_blank">An Analytical approach to Modern Binary Deobfuscation</a></td>
+    </tr>
+    <tr>
+        <td><strong>Location:</strong></td>
+        <td>In-person @ Phuket, Thailand</td>
+    </tr>
+    <tr>
+        <td><strong>Dates:</strong></td>
+        <td>August 21-24, 2023</td>
+    </tr>
+    <tr>
+    <td><strong>Register:</strong></td>
+    <td><a href="https://sectrain.hitb.org/courses/an-analytical-approach-to-modern-binary-deobfuscation-hitb2023hkt/" target="_blank">HITBSecTrain</a></td>
+    </tr>
+</tbody>
+</table>
+
 Looking for public offerings? [Get notified](https://subscribe.furalabs.com/)
 
 ### Private training
