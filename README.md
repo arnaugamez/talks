@@ -71,6 +71,8 @@ Looking for public offerings? [Get notified](https://subscribe.furalabs.com/)
 ## Presentations
 
 ### 2023
+[**Tales of software protection: cryptography and obfuscation, better together**<br>*03/2023* | RootedCON](2023/01_rootedcon/)
+
 [**Hands-on binary (de)obfuscation (updated)**<br>*02/2023* | h-c0n](2023/00_h-c0n/)
 
 ### 2022
