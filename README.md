@@ -23,7 +23,7 @@
     </tr>
     <tr>
     <td><strong>Register:</strong></td>
-    <td><a href="https://ringzer0.training/trainings/an-analytical-approach-to-modern-binary-deobfuscation.html" target="_blank">RingZer0</a></td>
+    <td><a href="https://furalabs.com/r0-training" target="_blank">RingZer0</a></td>
     </tr>
 </tbody>
 </table>
@@ -35,7 +35,7 @@
     </tr>
     <tr>
         <td><strong>Location:</strong></td>
-        <td>In-person @ Phuket, Thailand</td>
+        <td>Remote</td>
     </tr>
     <tr>
         <td><strong>Dates:</strong></td>
@@ -43,7 +43,7 @@
     </tr>
     <tr>
     <td><strong>Register:</strong></td>
-    <td><a href="https://sectrain.hitb.org/courses/an-analytical-approach-to-modern-binary-deobfuscation-hitb2023hkt/" target="_blank">HITBSecTrain</a></td>
+    <td><a href="https://furalabs.com/hitb-training" target="_blank">HITBSecConf</a></td>
     </tr>
 </tbody>
 </table>
