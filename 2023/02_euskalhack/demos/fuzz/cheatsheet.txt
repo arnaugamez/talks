@@ -1,0 +1,5 @@
+echo EuskalHack2023 > /in/seed
+
+afl-fuzz -M afl-master -i ./in -o ./out -- ./afl-build/fuzz @@
+afl-fuzz -S afl-secondary -i ./in -o ./out -- ./afl-build/fuzz @@
+symcc_fuzzing_helper -o ./out -a afl-secondary -n symcc -- ./symcc-build/fuzz @@
