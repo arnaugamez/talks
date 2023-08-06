@@ -11,26 +11,6 @@
 <tbody>
     <tr>
     <td><strong>Training:</strong></td>
-    <td><a href="https://furalabs.com/trainings/" target="_blank">An analytical approach to modern binary deobfuscation</a></td>
-    </tr>
-    <tr>
-        <td><strong>Location:</strong></td>
-        <td>In-person @ Las Vegas, USA</td>
-    </tr>
-    <tr>
-        <td><strong>Dates:</strong></td>
-        <td>August 05-08, 2023</td>
-    </tr>
-    <tr>
-    <td><strong>Register:</strong></td>
-    <td><a href="https://furalabs.com/r0-training" target="_blank">RingZer0</a></td>
-    </tr>
-</tbody>
-</table>
-<table>
-<tbody>
-    <tr>
-    <td><strong>Training:</strong></td>
     <td><a href="https://furalabs.com/trainings/" target="_blank">An Analytical approach to Modern Binary Deobfuscation</a></td>
     </tr>
     <tr>
