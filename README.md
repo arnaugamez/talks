@@ -7,27 +7,6 @@
 ---
 ## Upcoming trainings
 ### Public offerings
-<table style="margin-bottom: 1em">
-<tbody>
-    <tr>
-    <td><strong>Training:</strong></td>
-    <td><a href="https://furalabs.com/trainings/" target="_blank">An Analytical approach to Modern Binary Deobfuscation</a></td>
-    </tr>
-    <tr>
-        <td><strong>Location:</strong></td>
-        <td>Remote</td>
-    </tr>
-    <tr>
-        <td><strong>Dates:</strong></td>
-        <td>August 21-24, 2023</td>
-    </tr>
-    <tr>
-    <td><strong>Register:</strong></td>
-    <td><a href="https://furalabs.com/hitb-training" target="_blank">HITBSecConf</a></td>
-    </tr>
-</tbody>
-</table>
-
 Looking for public offerings? [Get notified](https://subscribe.furalabs.com/)
 
 ### Private training
