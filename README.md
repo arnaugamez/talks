@@ -65,7 +65,7 @@ Looking for public offerings? [Get notified](https://subscribe.furalabs.com/)
 
 [**Playing with binary formats**<br>*04/2018* | Overdrive Conference](2018/03_overdriveconference/)
 
-[**Brief introduction to reverse engineering usign radare2**<br>*04/2018* | NcNLabs](2018/02_noconname-lab/)
+[**Brief introduction to reverse engineering using radare2**<br>*04/2018* | NcNLabs](2018/02_noconname-lab/)
 
 [**Hacking tokens: a massive POC**<br>*03/2018* | RootedCON](2018/01_rootedcon/)
 
