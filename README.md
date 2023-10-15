@@ -68,6 +68,8 @@ Looking for public offerings? [Get notified](https://subscribe.furalabs.com/)
 ## Presentations
 
 ### 2023
+[**Symbolic execution for security researchers (updated)**<br>*10/2023* | Navaja Negra](2023/03_navajanegra/)
+
 [**Symbolic execution for security researchers**<br>*06/2023* | EuskalHack](2023/02_euskalhack/)
 
 [**Tales of software protection: cryptography and obfuscation, better together**<br>*03/2023* | RootedCON](2023/01_rootedcon/)
