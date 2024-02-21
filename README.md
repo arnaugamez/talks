@@ -7,27 +7,6 @@
 ---
 ## Upcoming trainings
 ### Public offerings
-<table style="margin-bottom: 1em">
-<tbody>
-    <tr>
-    <td><strong>Training:</strong></td>
-    <td><a href="https://furalabs.com/trainings/advanced-software-protection" target="_blank" class="invert">Advanced Software Protection - Attacks and Defense</a></td>
-    </tr>
-    <tr>
-        <td><strong>Location:</strong></td>
-        <td>In-person @ Austin, TX (USA)</td>
-    </tr>
-    <tr>
-        <td><strong>Dates:</strong></td>
-        <td>February 20-23, 2024</td>
-    </tr>
-    <tr>
-    <td><strong>Register:</strong></td>
-    <td><a href="https://furalabs.com/r0-training" target="_blank">Ringzer0</a></td>
-    </tr>
-</tbody>
-</table>
-    
 Looking for public offerings? [Get notified](https://subscribe.furalabs.com/)
 
 ### Private training
