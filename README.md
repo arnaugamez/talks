@@ -7,6 +7,27 @@
 ---
 ## Upcoming trainings
 ### Public offerings
+<table>
+    <tbody>
+        <tr>
+            <td><strong>Location:</strong></td>
+            <td>Remote</td>
+        </tr>
+        <tr>
+            <td><strong>Dates:</strong></td>
+            <td>November 9-10 & 16-17, 2024</td>
+        </tr>
+        <tr>
+            <td><strong>Price:</strong></td>
+            <td>EUR 3600</td>
+        </tr>
+        <tr>
+            <td><strong>Register:</strong></td>
+            <td>https://reg-asp-fall24.furalabs.com/</td>
+        </tr>
+    </tbody>
+</table>
+                                
 Looking for public offerings? [Get notified](https://subscribe.furalabs.com/)
 
 ### Private training
