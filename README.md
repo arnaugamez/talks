@@ -67,6 +67,9 @@ Looking for public offerings? [Get notified](https://subscribe.furalabs.com/)
 
 ## Presentations
 
+### 2024
+[**Hands-on binary (de)obfuscation (updated '24)**<br>*06/2024* | EuskalHack](2024/00_euskalhack/)
+
 ### 2023
 [**Symbolic execution for security researchers (updated)**<br>*10/2023* | Navaja Negra](2023/03_navajanegra/)
 
@@ -74,7 +77,7 @@ Looking for public offerings? [Get notified](https://subscribe.furalabs.com/)
 
 [**Tales of software protection: cryptography and obfuscation, better together**<br>*03/2023* | RootedCON](2023/01_rootedcon/)
 
-[**Hands-on binary (de)obfuscation (updated)**<br>*02/2023* | h-c0n](2023/00_h-c0n/)
+[**Hands-on binary (de)obfuscation (updated '23)**<br>*02/2023* | h-c0n](2023/00_h-c0n/)
 
 ### 2022
 [**A practical approach to advanced code obfuscation with MBA expressions**<br>*08/2022* | HITB SecConf Singapore](2022/02_hackinthebox-sin/)
