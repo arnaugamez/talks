@@ -1,0 +1,16 @@
+Build the docker image from Dockerfile
+---
+docker build -t eh2024-deobfuscation .
+
+
+Run the docker image exposing jupyter-lab instance on localhost:8888
+---
+:: Linux / MacOS ::
+docker run -p 8888:8888 -v ./workshop:/opt/workshop eh2024-deobfuscation
+
+:: Windows ::
+docker run -p 8888:8888 -v $PWD/workshop:/opt/workshop eh2024-deobfuscation
+
+
+> Note: host's ./workshop folder and docker's /opt/workshop folder will be synchronized.
+> Note: Depending on your docker installation, you might need to "sudo" the previous commands.
