@@ -68,7 +68,9 @@ Looking for public offerings? [Get notified](https://subscribe.furalabs.com/)
 ## Presentations
 
 ### 2024
-[**Hands-on binary (de)obfuscation (updated '24)**<br>*06/2024* | EuskalHack](2024/00_euskalhack/)
+[**Hands-on binary (de)obfuscation (updated '24)**<br>*06/2024* | EuskalHack](2024/01_euskalhack/)
+
+[**Efficient Normalized Reduction and Generation of Equivalent Multivariate Binary Polynomials**<br>*03/2024* | Workshop on Binary Analysis Research (BAR) @ NDSS](2024/00_bar/)
 
 ### 2023
 [**Symbolic execution for security researchers (updated)**<br>*10/2023* | Navaja Negra](2023/03_navajanegra/)
