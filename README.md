@@ -1,4 +1,6 @@
-[![Twitter Follow](https://img.shields.io/twitter/follow/arnaugamez?style=social)](https://twitter.com/intent/follow?screen_name=arnaugamez)
+<!--[![Twitter Follow](https://img.shields.io/twitter/follow/arnaugamez?style=social)](https://twitter.com/intent/follow?screen_name=arnaugamez)
+&nbsp;-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=arnaugamez)
 &nbsp;
 ![Mastodon Follow](https://img.shields.io/mastodon/follow/109298831472487864?domain=https%3A%2F%2Finfosec.exchange&style=social)
 &nbsp;
