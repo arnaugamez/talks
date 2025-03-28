@@ -48,6 +48,9 @@ Looking for public offerings? [Get notified](https://subscribe.furalabs.com/)
 
 ## Presentations
 
+### 2025
+[**Hands-on binary (de)obfuscation (updated '25)**<br>*03/2025* | Ringzer0](2025/00_ringzer0/)
+
 ### 2024
 [**Hands-on binary (de)obfuscation (updated '24)**<br>*06/2024* | EuskalHack](2024/01_euskalhack/)
 
@@ -65,7 +68,7 @@ Looking for public offerings? [Get notified](https://subscribe.furalabs.com/)
 ### 2022
 [**A practical approach to advanced code obfuscation with MBA expressions**<br>*08/2022* | HITB SecConf Singapore](2022/02_hackinthebox-sin/)
 
-[**Hands-on binary (de)obfuscation**<br>*06/2022* | RingZer0](2022/01_r0-workshop/)
+[**Hands-on binary (de)obfuscation**<br>*06/2022* | Ringzer0](2022/01_r0-workshop/)
 
 [**Code obfuscation through Mixed Boolean-Arithmetic expressions**<br>*02/2022* | h-c0n](2022/00_h-c0n/)
 
