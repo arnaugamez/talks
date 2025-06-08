@@ -49,6 +49,8 @@ Looking for public offerings? [Get notified](https://subscribe.furalabs.com/)
 ## Presentations
 
 ### 2025
+[**Fun with Binary Polynomials: Obfuscation and Reverse Engineering**<br>*05/2025* | TyphoonCon](2025/01_typhooncon/)
+
 [**Hands-on binary (de)obfuscation (updated '25)**<br>*03/2025* | Ringzer0](2025/00_ringzer0/)
 
 ### 2024
