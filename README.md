@@ -7,44 +7,11 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
-## Upcoming trainings
-### Public offerings                   
-Looking for public offerings? [Get notified](https://subscribe.furalabs.com/)
 
-### Private training
-<table style="margin-bottom: 1em">
-    <tbody>
-        <tr>
-        <td><strong>Training:</strong></td>
-        <td><a href="https://furalabs.com/trainings/advanced-software-protection" target="_blank" class="invert">Advanced Software Protection - Attacks and Defense</a></td>
-        </tr>
-        <tr>
-            <td><strong>Location:</strong></td>
-            <td>In-person / Remote</td>
-        </tr>
-        <tr>
-            <td><strong>Length:</strong></td>
-            <td>4 days (flexible)</td>
-        </tr>
-    </tbody>
-</table>
 
-<table style="margin-bottom: 1em">
-    <tbody>
-        <tr>
-        <td><strong>Training:</strong></td>
-        <td><a href="https://furalabs.com/trainings/modern-binary-deobfuscation" target="_blank" class="invert">An Analytical Approach to Modern Binary Deobfuscation</a></td>
-        </tr>
-        <tr>
-            <td><strong>Location:</strong></td>
-            <td>In-person / Remote</td>
-        </tr>
-        <tr>
-            <td><strong>Length:</strong></td>
-            <td>4 days (flexible)</td>
-        </tr>
-    </tbody>
-</table>
+> If you like these, you might be interested in my training on **Software Protection and Deobfuscation**.
+> 
+> More info at https://furalabs.com/training.
 
 ## Presentations
 
