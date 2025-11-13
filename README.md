@@ -16,6 +16,8 @@
 ## Presentations
 
 ### 2025
+[**Hands-on binary (de)obfuscation (updated '25)**<br>*11/2025* | BSides Barcelona](2025/02_bsides-barcelona/)
+
 [**Fun with Binary Polynomials: Obfuscation and Reverse Engineering**<br>*05/2025* | TyphoonCon](2025/01_typhooncon/)
 
 [**Hands-on binary (de)obfuscation (updated '25)**<br>*03/2025* | Ringzer0](2025/00_ringzer0/)
