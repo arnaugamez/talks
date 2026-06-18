@@ -9,7 +9,7 @@
 ---
 
 
-> If you like these, you might be interested in my training on **Software Protection and Deobfuscation**.
+> If you like these, you might be interested in my training courses: **Modern Binary Deobfuscation**, **Binary Analysis Fundamentals** and more.
 > 
 > More info at https://furalabs.com/training.
 
