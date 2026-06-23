@@ -9,7 +9,9 @@
 ---
 
 
-> If you like these, you might be interested in my training courses: **Modern Binary Deobfuscation**, **Binary Analysis Fundamentals** and more.
+> If you like these, you might be interested in my training courses:
+> - [Modern Binary Deobfuscation](https://furalabs.com/training-modern-binary-deobfuscation/)
+> - [Binary Analysis Fundamentals](https://furalabs.com/training-binary-analysis-fundamentals/)
 > 
 > More info at https://furalabs.com/training.
 
