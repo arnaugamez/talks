@@ -20,7 +20,7 @@
 ## Presentations
 
 ### 2026
-[**Mixed Boolean-Arithmetic Obfuscation: What We Build, What We Break, and What We Can’t**<br>*06/2026* | REcon Montreal](2026/00_recon/)
+[**Mixed Boolean-Arithmetic Obfuscation: What We Build, What We Break, and What We Can’t**<br>*06/2026* | REcon](2026/00_recon/)
 
 ### 2025
 [**Hands-on binary (de)obfuscation (updated '25)**<br>*11/2025* | BSides Barcelona](2025/02_bsides-barcelona/)
