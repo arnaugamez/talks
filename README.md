@@ -54,7 +54,7 @@
 [**Code obfuscation through Mixed Boolean-Arithmetic expressions**<br>*11/2021* | Intent Summit](2021/00_intent/)
 
 ### 2020
-[**A review of modern code deobfuscation techniques**<br>*07/2022* | HITB Lockdown 002](2020/02_hackinthebox-sin/)
+[**A review of modern code deobfuscation techniques**<br>*07/2020* | HITB Lockdown 002](2020/02_hackinthebox-sin/)
 
 [**Code emulation for reverse engineers: A deep dive into radare2's ESIL**<br>*05/2020* | RuhrSec](2020/01_ruhrsec/)
 
