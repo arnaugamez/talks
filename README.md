@@ -20,6 +20,8 @@
 ## Presentations
 
 ### 2026
+[**Hands-on binary (de)obfuscation (updated '26)**<br>*11/2026* | Nullcon](2026/01_nullcon/)
+
 [**Mixed Boolean-Arithmetic Obfuscation: What We Build, What We Break, and What We Can’t**<br>*06/2026* | REcon](2026/00_recon/)
 
 ### 2025
